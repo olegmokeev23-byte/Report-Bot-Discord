@@ -26,7 +26,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/your-username/report-bot.git
+git clone https://github.com/your-username/report-bot.git](https://github.com/olegmokeev23-byte/Report-Bot-Discord.git
 cd report-bot
 
 # Установите зависимости
